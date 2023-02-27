@@ -9,4 +9,4 @@
 
 ## :pushpin: Projects
 1) 서울시 미세먼지를 실시간으로 예측하기 위한 프로젝트
-(https://github.com/seoyoonjoannechang/SUM_Project)
+
