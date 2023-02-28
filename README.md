@@ -3,11 +3,11 @@
 이제는 데이터를 가지고 최대의 성과를 만들기 위해 공부하고 노력하는 개발자, 김승주입니다.
 
 ## Intro
-Name : 김승주
-Birth : 1990.10.19
-Address : 천안시 서북구 공원로
-E-mail : zmffotm57@gmail.com
-blog : https://blog.naver.com/dirn57
+* Name : 김승주
+* Birth : 1990.10.19
+* Address : 천안시 서북구 공원로
+* E-mail : zmffotm57@gmail.com
+* blog : https://blog.naver.com/dirn57
 
 ## Projects
 #### 서울시 미세먼지 실시간 예측 프로젝트
