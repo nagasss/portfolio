@@ -1,9 +1,15 @@
 # 김승주
-> 문제 해결을 즐거워하는 개발자
+> 최대의 효율을 내고자 철저한 분석을 해오던 생산관리자에서 
+이제는 데이터를 가지고 최대의 성과를 만들기 위해 공부하고 노력하는 개발자, 김승주입니다.
 
-## :pushpin: Intro
+## pushpin: Intro
+Name : 김승주
+Birth : 1990.10.19
+Address : 천안시 서북구 공원로
+E-mail : zmffotm57@gmail.com
+blog : https://blog.naver.com/dirn57
 
-## :pushpin: Projects
+## Projects
 ### 서울시 미세먼지 실시간 예측 프로젝트
 > 유형 : 팀프로젝트
 > 
@@ -14,7 +20,4 @@
 >
 > 프로젝트 관련 소스 : https://github.com/seoyoonjoannechang/SUM_Project
 
-## :pushpin: Contact
-- 이메일 : zmffotm57@gmail.com
-- 블로그 : https://blog.naver.com/dirn57 
 
