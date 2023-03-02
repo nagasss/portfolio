@@ -10,9 +10,8 @@
 * Address : 천안시 서북구 공원로
 * E-mail : zmffotm57@gmail.com
 * blog : https://blog.naver.com/dirn57
-* activity 
-- 코리아IT아카데미 (교육이수)
-* 배운 내용 
+* activity : 코리아IT아카데미, 빅데이터를 활용한 AI챗봇&광학기술 개발자 과정(6개월)
+** 배운 내용 
   DB
 - 데이터베이스의 정의 및 기본 개념
 - 데이터 모델링
