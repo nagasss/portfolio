@@ -11,7 +11,8 @@
 * blog : https://blog.naver.com/dirn57
 * activity : 코리아IT아카데미, 빅데이터를 활용한 AI챗봇&광학기술 개발자 과정(6개월)
   - 내용 
-          DB
+        
+        DB
         - 데이터베이스의 정의 및 기본 개념
         - 데이터 모델링
         - 데이터 정규화
