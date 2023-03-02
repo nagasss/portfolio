@@ -10,7 +10,7 @@
 * E-mail : zmffotm57@gmail.com
 * blog : https://blog.naver.com/dirn57
 * activity : 코리아IT아카데미, 빅데이터를 활용한 AI챗봇&광학기술 개발자 과정(6개월)
-
+  - 내용 : 
 ## Projects
 #### 서울시 미세먼지 실시간 예측 프로젝트
 > 유형 : 팀프로젝트
