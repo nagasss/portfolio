@@ -55,4 +55,6 @@
 >
 > 프로젝트 관련 소스 : https://github.com/seoyoonjoannechang/SUM_Project
 
-
+## Blog
+> 6개월간 수업 관련 내용 정리 및 개인 공부 공간
+> https://blog.naver.com/dirn57
