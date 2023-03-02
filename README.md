@@ -8,7 +8,6 @@
 * Birth : 1990.10.19
 * Address : 천안시 서북구 공원로
 * E-mail : zmffotm57@gmail.com
-* blog : https://blog.naver.com/dirn57
 * activity : 코리아IT아카데미, 빅데이터를 활용한 AI챗봇&광학기술 개발자 과정(6개월)
   - 내용 
         
@@ -57,4 +56,5 @@
 
 ## Blog
 > 6개월간 수업 관련 내용 정리 및 개인 공부 공간
+> 
 > https://blog.naver.com/dirn57
