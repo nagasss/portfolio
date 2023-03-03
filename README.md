@@ -75,7 +75,9 @@
 >     - 베이스라인 모델 선정 후 여러 파라미터를 수정하며 모델 성능 확인 (RMSE 기준)
 >       - epoch, maxpool1D, strides, dropout, kernel_size, learning_rate, batch_size 수정
 >       - MinMaxScale, RobustScale 사용
->        
+> - 분류 모델
+>   - 회귀 모델과 동일한 모델로 진행
+> 
 > 프로젝트 관련 소스 : https://github.com/seoyoonjoannechang/SUM_Project
 
 ## Blog
