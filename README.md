@@ -56,11 +56,19 @@
 >- 라이브러리 : Pandas, Numpy, Scikit-Learn, Tensorflow, Matplotlib, Seaborn
 >
 > 1) API 데이터 수집
+> 
 > - 기상자료개방포털 OPEN-API 데이터 활용
+> - 경기도, 서울, 인천 지역별 데이터 수집
+> 
 > 2) 데이터 전처리
+> - 결측치 처리 : drop할 컬럼, 0으로 대체할 컬럼, 앞 뒤 값의 평균으로 대체할 컬럼 선정 및 처리
+> - datetime 컬럼이 없는 데이터 확인 -> 바로 뒤의 데이터와 동일한 값으로 처리 
+> - 다양한 기상현상을 수치화한 컬럼 원핫인코딩 처리
 > 
 > 3) 딥러닝 모델 학습
-> 
+> - 회귀 모델
+>   - 피처 선정하기 위해 기존 피처, PCA, Randomforest의 feature_importance 총 3가지 방법으로 RMSE 확인
+>   - Randomforest feature_importance로 피처 중요성 확인, 값이 0인 피처 제거
 > 프로젝트 관련 소스 : https://github.com/seoyoonjoannechang/SUM_Project
 
 ## Blog
