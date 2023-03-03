@@ -51,7 +51,7 @@
 > 내용 : 서울, 인천, 경기의 기상관측, 대기오염 데이터를 활용해서 24시간 뒤 서울시 종로구의 미세먼지 농도를 예측하는 모델 생성
 > 
 > 역할
-> >- 스킬 : Python
+>- 스킬 : Python
 >
 >- 라이브러리 : Pandas, Numpy, Scikit-Learn, Tensorflow, Matplotlib, Seaborn
 >
@@ -60,10 +60,6 @@
 > 2) 데이터 전처리
 > 
 > 3) 딥러닝 모델 학습
->
->- 스킬 : Python
->
->- 라이브러리 : Pandas, Numpy, Scikit-Learn, Tensorflow, Matplotlib, Seaborn
 > 
 > 프로젝트 관련 소스 : https://github.com/seoyoonjoannechang/SUM_Project
 
