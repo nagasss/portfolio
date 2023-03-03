@@ -52,9 +52,9 @@
 > 
 > 역할 : API 데이터 수집, 데이터 전처리, 딥러닝 모델 학습
 >
-- 스킬 : Python
+>- 스킬 : Python
 >
-- 라이브러리 : Pandas, Numpy, Scikit-Learn, Tensorflow, Matplotlib, Seaborn
+>- 라이브러리 : Pandas, Numpy, Scikit-Learn, Tensorflow, Matplotlib, Seaborn
 > 
 > 프로젝트 관련 소스 : https://github.com/seoyoonjoannechang/SUM_Project
 
